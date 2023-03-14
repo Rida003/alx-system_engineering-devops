@@ -16,6 +16,6 @@
 
 * What is the special parameter $??
 
-**The ~~alias~~ Command**
+The alias Commands [alias](http://www.linfo.org/alias.html/).
 **You are not allowed to use ~~&&~~  ~~||~~  ~~or~~ ~~;~~**
 **You are not allowed to use ~~bc~~ ~~sed~~ or ~~awk~~**
