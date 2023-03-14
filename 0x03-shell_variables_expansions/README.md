@@ -2,6 +2,8 @@
 
 ## Variables
 
+**The ~~alias~~ Command**
+
 * What is the difference between a local and a global variable
 
 * What is a reserved variable
@@ -15,3 +17,5 @@
 * What is the special parameter $??
 
 **The ~~alias~~ Command**
+**You are not allowed to use ~~&&~~  ~~||~~  ~~or~~ ~~;~~**
+**You are not allowed to use ~~bc~~ ~~sed~~ or ~~awk~~**
