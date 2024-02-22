@@ -1,11 +1,13 @@
 #!/usr/bin/env bash
-# This script is displaying "Holberton School" 10 time but at the 9th will
-# display "Hi"
-i=1
-while [ $i -le 10 ]; do
-	echo "Holberton School"
-	if [ $i -eq 9 ]; then
+# This script is displaying 10 times of "Best School", but on nineth iteration it shows "Hi."
+
+count=0
+while [ $count -lt 10 ]; do
+	if [ $count -eq 8 ]; then
+		echo "Best School"
 		echo "Hi"
+	else
+		echo "Best School"
 	fi
-	let i+=1
+	count=$((count+1))
 done
