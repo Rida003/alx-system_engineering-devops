@@ -1,3 +1,4 @@
 #!/usr/bin/env bash
-# Show process id 
-ps auxf
+# Display list of currently running process in user-oriented format
+
+ps -auxf
